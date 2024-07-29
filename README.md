@@ -23,3 +23,4 @@ POV-Ray uses its own Scene Description Language (SDL) to define the properties o
     location <0, 2, -5>
     look_at <0, 1, 0>
   }
+```
